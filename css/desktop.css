@@ -1,0 +1,54 @@
+@media (min-width: 1400px){
+    .info-container{
+        margin-top: 91px;
+        margin-left: 124px;
+        margin-right: 150px;
+    }
+    header h1{
+        font-size: 32px;
+    }
+    main{
+        margin-bottom: 94px;
+    }
+    .paragraf{
+        width: 662px;
+        height: 374px;
+        margin-right: 190px;
+    }
+    .paragraf p{
+        font-size: 24px;
+    }
+    .img_1{
+        width: 314px;
+        height: 315px;
+    }
+    .img_1 .img_1_1{
+        width: 314px;
+        height: 315px;
+    }
+    .img_1 .img_1_2{
+        width: 366px;
+        top: 286px;
+        height: 59px;
+        left: 16px;
+    }
+    footer{
+        height: 203px;
+        margin-bottom: 173px;
+    }
+    footer .img_2{
+        width: 232px;
+        height: 203px;
+        margin-right: 132px;
+        margin-bottom: 173px;
+    }
+    .footer_p div{
+        width: 150px;
+        height: 39px;
+        margin-right: 95px;
+        font-size: 18px;
+    }
+    .footer_p h3{
+        font-size: 25px;
+    }
+}
