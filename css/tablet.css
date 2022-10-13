@@ -1,4 +1,12 @@
 @media (min-width: 830px) and (max-width: 1399px){
+    body{
+        width: 830px;
+        
+    }
+    .wrapper{
+        max-width: 1399px;
+        min-width: 830px;
+    }
     .info-container{
         margin-top: 56px;
         margin-left: 72px;
@@ -9,6 +17,7 @@
     }
     main{
         margin-bottom: 70px;
+        justify-content: space-between;
     }
     .paragraf{
         width: 383px;

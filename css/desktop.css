@@ -1,5 +1,10 @@
 @media (min-width: 1400px){
+    body{
+        width: 1400px;
+        height: 1046px;
+    }
     .info-container{
+        
         margin-top: 91px;
         margin-left: 124px;
         margin-right: 150px;
@@ -9,6 +14,7 @@
     }
     main{
         margin-bottom: 94px;
+        justify-content: space-between;
     }
     .paragraf{
         width: 662px;
@@ -34,7 +40,7 @@
     }
     footer{
         height: 203px;
-        margin-bottom: 173px;
+        margin-bottom: 100px;
     }
     footer .img_2{
         width: 232px;
